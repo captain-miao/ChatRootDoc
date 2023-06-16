@@ -4,4 +4,5 @@ v1.0.5
 2. 支持模型 gpt-3.5-turbo-16k
 ----
 Web:[CharRoot - https://chatbrainapp.com](https://chatbrainapp.com)
-iOS/Mac:[CharRoot on the App Store](https://apps.apple.com/cn/app/chatroot/id6446442716)
+
+iOS/Mac:[ChatRoot on the App Store](https://apps.apple.com/cn/app/chatroot/id6446442716)
